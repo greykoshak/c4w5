@@ -153,7 +153,7 @@ fabric.properties
 
 #*.csv
 *.log
-*.txt
+#*.txt
 !requirements.txt
 
 *.DS_Store
